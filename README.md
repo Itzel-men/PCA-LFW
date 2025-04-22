@@ -58,7 +58,7 @@ donde a) y c) corresponden a la indentificación de George W Bush, pero con dife
 
 La identificación de un individuo de prueba en el espacio de los $p$ componentes es muy interesante porque se puede decir que está identificando bien a los individuos, en el sentido en el que tienen una gran cantidad de rasgos en común, expresiones, posición, etc., esto debido a que las proyecciones son muy similares y por eso los está identificando aunque no sea la persona correcta. El valor de $p$ influye en qué tanto parentezco van a tener y esto es claro, pues entre más componentes consideremos, se espera que el porcentaje de la varianza total extraida sea cada vez mayor.
 
-Para un mayor análisis consultar el archivo ![Análisis PCA detallado.](analisis_pca.pdf)
+Para un mayor análisis consultar el archivo ![Análisis PCA detallado.](PCA_faces.pdf)
 
 Autor: Viridiana Itzel Méndez Vásquez ([viridiana.mendez@cimat.mx](mailto:viridiana.mendez@cimat.mx)).
 
